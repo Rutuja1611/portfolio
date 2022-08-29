@@ -1,0 +1,15 @@
+.main{
+   background-image: url("https://cdn.pixabay.com/photo/2021/04/29/06/23/planet-6215636_960_720.jpg");
+   background-size: cover;
+   height: 100vh;
+
+}
+.mybg{
+    background-color: rgba(0, 0, 0, 0.452);
+}
+.card_border{
+    border-left: 1px solid black;
+}
+.card_border1{
+    border-left: 1px solid black;
+}
